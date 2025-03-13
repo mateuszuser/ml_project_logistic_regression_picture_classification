@@ -22,6 +22,7 @@ You can install the required dependencies using pip:
 
 ```bash
 pip install torch torchvision torchaudio numpy matplotlib pillow
+```
 
 How to Run
 Logistic Regression Model
